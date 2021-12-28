@@ -16,6 +16,6 @@ echo Starting new Chrome session with --allow-file-access-from-files
 echo Now open highway, searanger or shapes_editor in Chrome locally on Windows
 echo.
 
-"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --allow-file-access-from-files
+"C:\Program Files\Google\Chrome\Application\chrome.exe" http://localhsot/lcdgame/games/ --allow-file-access-from-files
 
 pause.
